@@ -17,4 +17,4 @@ An Informatics Student who is highly driven to achieve and learn new skills thro
 </p>
 
 ### Reach me on
-- <a href="linkedin.com/in/mochammad-adhi-b-2049a1136">LinkedIn</a>
+- [LinkedIn](https://www.linkedin.com/in/mochammad-adhi-b-2049a1136/)
