@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello Everyone 👋
 
-<!--
-**adhibuchori/adhibuchori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adhi. 
 
-Here are some ideas to get you started:
+An Informatics Student who is highly driven to achieve and learn new skills through practical experience. I loves to create and share my project especially about mobile and machine learning technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently an Informatics Student at the Jakarta Veterans National Development University.
+- 🌱 I’m currently learning about machine learning and mobile apps technology.
+- 📫 Let's be friend!
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/adhibuchori">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhibuchori&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhibuchori&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="linkedin.com/in/mochammad-adhi-b-2049a1136">LinkedIn</a>
